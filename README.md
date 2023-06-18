@@ -10,9 +10,13 @@ This is a Library Management System API built with Java and Spring Boot. The sys
 ## Technologies Used
 - Java
 - Spring Boot
+- Spring Web
 - Spring Security
 - Spring Data JPA
+- Spring Boot Actuator
+- Spring HATEOAS
 - MySQL
+- Spring Boot DevTools
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -54,7 +58,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
-
----
-
-Por favor, déjame saber si hay algo que te gustaría agregar o cambiar en este archivo README.md.
